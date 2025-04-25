@@ -1,0 +1,1 @@
+# Logger setup for ClimaMind
