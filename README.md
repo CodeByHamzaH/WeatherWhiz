@@ -1,6 +1,6 @@
 # 🌤️ WeatherWhiz
 
-ClimaMind is an AI-powered weather assistant built using [LangGraph](https://github.com/langchain-ai/langgraph), [LangChain](https://www.langchain.com/), and [Ollama](https://ollama.com/) running the lightweight **Gemma 3.2 1B** model. It provides real-time weather information for any city using the OpenWeatherMap API.
+WeatherWhiz is an AI-powered weather assistant built using [LangGraph](https://github.com/langchain-ai/langgraph), [LangChain](https://www.langchain.com/), and [Ollama](https://ollama.com/) running the lightweight **Gemma 3.2 1B** model. It provides real-time weather information for any city using the OpenWeatherMap API.
 
 ---
 
@@ -17,7 +17,7 @@ ClimaMind is an AI-powered weather assistant built using [LangGraph](https://git
 ## 📁 Project Structure
 
 ```
-climamind/
+WeatherWhiz/
 ├── README.md
 ├── requirements.txt
 ├── .env                     # API keys, config
@@ -43,8 +43,8 @@ climamind/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/climamind.git
-cd climamind
+git clone https://github.com/CodeByHamzaH/WeatherWhiz.git
+cd WeatherWhiz
 ```
 
 ### 2. Create a virtual environment
