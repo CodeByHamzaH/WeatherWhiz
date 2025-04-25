@@ -1,4 +1,4 @@
-# 🌤️ ClimaMind
+# 🌤️ WeatherWhiz
 
 ClimaMind is an AI-powered weather assistant built using [LangGraph](https://github.com/langchain-ai/langgraph), [LangChain](https://www.langchain.com/), and [Ollama](https://ollama.com/) running the lightweight **Gemma 3.2 1B** model. It provides real-time weather information for any city using the OpenWeatherMap API.
 
